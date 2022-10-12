@@ -30,3 +30,13 @@ The lambda is built to add a referance to any files that are uploaded and linked
 I could not create an efficient function that passes test (has an access denied) and does not allow me to modify the array of images and update them with the values.
 
 ## [a link to the images.json file](https://kf-image-lambda.s3.us-west-1.amazonaws.com/images.json)
+
+## Collaborators
+
+- Luis Rosales
+
+- Tyler Main
+
+- Brandon Pitts
+
+- Stephanie Hill
