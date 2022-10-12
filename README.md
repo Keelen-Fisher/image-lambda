@@ -23,7 +23,7 @@
 
 ## How to use the lambda
 
-The lambda is built to add a reference to any files that are uploaded and linked to the bucket, in this case the three images. There is no duplication if two or more images arfe uploaded with the same name, rather it is amended.
+The lambda is built to add a reference to any files that are uploaded and linked to the bucket, in this case the three images. There is no duplication if two or more images are uploaded with the same name, rather it is amended.
 
 ## a description of any issues encountered during deployment of this lambda
 
